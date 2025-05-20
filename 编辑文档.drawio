@@ -101,6 +101,9 @@
         <mxCell id="6-Gtksee_l39-dPfnhdo-34" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="469" y="427" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6-Gtksee_l39-dPfnhdo-36" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="168" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
